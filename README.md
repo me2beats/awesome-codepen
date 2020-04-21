@@ -1,2 +1,3 @@
 # awesome-codepen
-list of wonderful Codepen pens, inspiring you to create amazing apps and games UI
+a list of wonderful Codepen pens, inspiring you to create amazing apps and games UI
+
