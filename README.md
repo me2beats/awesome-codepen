@@ -6,7 +6,7 @@ This is my first project related to UI/UX design where I select attractive, usef
 I don't pretend to be objective at all. just my vision.
 
 Discord server for suggestions, questions or just chatting on a UI / UX topic:
-https://discord.gg/dzPYzut
+[awesome-ui-ux](https://discord.gg/dzPYzut)
 
 Please note:
 the authorship of the pens may not be verified properly.
