@@ -1,4 +1,5 @@
 # awesome-codepen
+a list of wonderful [Codepen](https://codepen.io/) pens, inspiring you to create amazing apps and games UI
 
 ![Imgur](https://i.imgur.com/ZJ5H7cS.gif)]
 
@@ -6,8 +7,6 @@ Pure CSS "Moustached Nanny" by Julia Miocene
 
 <details><summary>ABOUT</summary>
 <p>
-
-a list of wonderful [Codepen](https://codepen.io/) pens, inspiring you to create amazing apps and games UI
 
 This is my first project related to UI/UX design where I select attractive, useful or just inspirational (in my opinion!) UI / UX solutions, and publish them on GitHub
 
