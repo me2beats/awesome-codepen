@@ -5,7 +5,7 @@ a list of wonderful [Codepen](https://codepen.io/) pens, inspiring you to create
 
 [Pure CSS "Moustached Nanny"](https://codepen.io/miocene/full/mjLPVp) by [Julia Miocene](https://codepen.io/miocene)
 
-<details><summary>ABOUT</summary>
+<details><summary>ABOUT THE PROJECT</summary>
 <p>
 
 This is my first project related to UI/UX design where I select attractive, useful or just inspirational (in my opinion!) UI / UX solutions, and publish them on GitHub
