@@ -21,7 +21,7 @@ If you find an error related to authorship of a pen, please report it to the pro
 
 </p>
 </details>
----
+
 ## [Hover Effect](sections/hover-effect.md)
 [![Imgur](https://i.imgur.com/Mc0xYVH.gif)](https://codepen.io/ainalem/full/PoPWzWa)
 <!-- Mikael Ainalem == Submit Button -->
