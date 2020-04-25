@@ -1,10 +1,7 @@
 # awesome-codepen
 a list of wonderful [Codepen](https://codepen.io/) pens, inspiring you to create amazing apps and games UI
 
-![Imgur](https://i.imgur.com/ZJ5H7cS.gif)
-
-
-[![text](https://i.imgur.com/ZJ5H7cS.gif)](https://codepen.io/miocene/full/mjLPVp)
+[![Imgur](https://i.imgur.com/ZJ5H7cS.gif)](https://codepen.io/miocene/full/mjLPVp)
 
 Pure CSS "Moustached Nanny" by Julia Miocene
 
