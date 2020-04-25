@@ -25,6 +25,10 @@ If you find an error related to authorship of a pen, please report it to the pro
 
 ___
 
-## [Hover Effect](sections/loader.md)
+## [Hover Effect](sections/hover-effect.md)
 [![Imgur](https://i.imgur.com/Mc0xYVH.gif)](https://codepen.io/ainalem/full/PoPWzWa)
 <!-- Mikael Ainalem == Submit Button -->
+
+## [Loader](sections/loader.md)
+[![Imgur](https://i.imgur.com/ihmhj2k.gif)](https://codepen.io/ainalem/full/eYmGLyp)
+<!-- Mikael Ainalem == Liquid loader -->
