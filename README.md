@@ -6,7 +6,7 @@ a list of wonderful [Codepen](https://codepen.io/) pens, inspiring you to create
 
 Pure CSS "Moustached Nanny" by Julia Miocene
 
-
+---
 <details><summary>ABOUT THE PROJECT</summary>
 <p>
 
@@ -21,7 +21,7 @@ If you find an error related to authorship of a pen, please report it to the pro
 
 </p>
 </details>
-
+---
 ## [Hover Effect](sections/hover-effect.md)
 [![Imgur](https://i.imgur.com/Mc0xYVH.gif)](https://codepen.io/ainalem/full/PoPWzWa)
 <!-- Mikael Ainalem == Submit Button -->
