@@ -28,11 +28,14 @@ ___
 ## [Hover](sections/hover.md)
 [![Imgur](https://i.imgur.com/Mc0xYVH.gif)](https://codepen.io/ainalem/full/PoPWzWa)
 <!-- Mikael Ainalem == Submit Button -->
+---
 
 ## [Loader](sections/loader.md)
 [![Imgur](https://i.imgur.com/ihmhj2k.gif)](https://codepen.io/ainalem/full/eYmGLyp)
 <!-- Mikael Ainalem == Liquid loader -->
+---
 
 ## [Highlight](sections/highlight.md)
 [![Imgur](https://i.imgur.com/XjWkUhe.gif)](https://codepen.io/ainalem/pen/EQXjOR)
 <!-- Mikael Ainalem == Snake highlight -->
+---
