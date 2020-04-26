@@ -32,3 +32,7 @@ ___
 ## [Loader](sections/loader.md)
 [![Imgur](https://i.imgur.com/ihmhj2k.gif)](https://codepen.io/ainalem/full/eYmGLyp)
 <!-- Mikael Ainalem == Liquid loader -->
+
+## [Highlight](sections/highlight.md)
+[![Imgur](https://i.imgur.com/XjWkUhe.gif)](https://codepen.io/ainalem/pen/EQXjOR)
+<!-- Mikael Ainalem == Snake highlight -->
